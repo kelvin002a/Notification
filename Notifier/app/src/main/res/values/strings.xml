@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notifier</string>
+    <string name="text_on_button">Ready for Action</string>
+</resources>
